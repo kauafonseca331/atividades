@@ -1,2 +1,2 @@
-# atividades 2 trimestre
+# atividades
 ## Anexar atividades avaliativas do trimestre podendo ser autorais ou não.
